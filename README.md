@@ -1,2 +1,2 @@
-# rusted
-personal rust playground
+# Rusted
+Personal Rust Playground
